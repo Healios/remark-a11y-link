@@ -1,0 +1,33 @@
+{
+  "name": "gridsome-remark-a11y-link",
+  "version": "1.0.0",
+  "description": "Gridsome remark plugin to embed accessible links in markdown.",
+  "main": "index.js",
+  "author": "Marcus Raevmann Brown",
+  "homepage": "https://github.com/Healios/remark-a11y-link",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Healios/remark-a11y-link.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Healios/remark-a11y-link/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "vue",
+    "remark",
+    "gridsome",
+    "gridsome-plugin",
+    "markdown",
+    "wcag",
+    "a11y",
+    "accessability",
+    "link"
+  ],
+  "dependencies": {
+    "unist-util-visit": "1.4.0"
+  },
+  "files": [
+    "gridsome"
+  ]
+}
